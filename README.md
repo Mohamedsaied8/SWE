@@ -1,3 +1,8 @@
 # Software Engineering for professionals
 
-blablalbla --- wrong changes
+
+## Topics
+
+### Linux Adminstarion
+
+### Modern C++
